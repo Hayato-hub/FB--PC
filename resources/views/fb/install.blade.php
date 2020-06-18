@@ -5,8 +5,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>公式ページへ移動中</title>
-        <link href="{{ secure_asset('css/check.css') }}" rel="stylesheet">
-        <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+        <link href="{{ secure_asset('css/install.css') }}" rel="stylesheet">
+        <!--自動遷移設定-->
+        <meta http-equiv="refresh" content=" 1; url=https://a-trade.jp/redirect/popo?media=G16531">
         <!-- Facebook Pixel Code -->
         <script>
           !function(f,b,e,v,n,t,s)
@@ -19,6 +20,7 @@
           'https://connect.facebook.net/en_US/fbevents.js');
           fbq('init', '752288668876211');
           fbq('track', 'PageView');
+          fbq('track', 'ViewContent');
         </script>
         <noscript><img height="1" width="1" style="display:none"
           src="https://www.facebook.com/tr?id=752288668876211&ev=PageView&noscript=1"
@@ -28,9 +30,7 @@
     <body>
         <br>
         <br>
-        <p>公式ページへ移動しています。<br>詳細は公式ページをご確認下さい。</p>
-        <div class="button">
-                <a href="https://tokyo.rent-kano.net/recruit.html" class="btn-square">公式ページで詳細をみる <i class="fas fa-external-link-alt"></i></a>
-        </div>
+        <p>公式ページへ移動しています。</p>
+        <p>3秒経過しても移動しない場合は、<a href="https://a-trade.jp/redirect/popo?media=G16531">コチラ</a>をタップして下さい。</p>
     </body>
 </html>
