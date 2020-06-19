@@ -21,7 +21,7 @@ Route::get('dl', function () {
     return view('fb.dl'); //自動遷移LP。ココに案件タグを設置
 });
 
-//popo-DL
+//popo / モア-DL ※現在モア配信中。GDにてPoPo配信中の為
 Route::get('install', function () {
     return view('fb.install'); //自動遷移LP。ココに案件タグを設置
 });
