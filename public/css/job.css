@@ -54,7 +54,8 @@ img {
 }
 
 .busy-h3-span {
-    color: #FF5192;
+    /*color: #FF5192;*/
+    color: #CC3333;
     font-weight: bold;
     font-size: 1.2rem;
 }
