@@ -112,24 +112,14 @@ img {
 }
 
 .btn-square {
-  height: 3rem;
-  line-height: 3rem;
-  width: 90%;
-  font-size: 1.2rem;
   display: inline-block;
-  /*padding: 0.5em 1em;*/
+  padding: 0.5em 1em;
   text-decoration: none;
   background: #EE0000;/*ボタン色*/
   color: #FFF;
   font-weight: bold;
   border-bottom: solid 4px #BBBBBB;
   border-radius: 3px;
-}
-
-.attention {
-    text-align: center;
-    font-size: 1.2rem;
-    /*padding-top: 1rem;*/
 }
 
 .body-p-span {
