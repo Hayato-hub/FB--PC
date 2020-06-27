@@ -80,7 +80,11 @@
                     <a href="./dl" target="_blank" class="btn-square"><i class="fab fa-apple"></i> 公式AppStoreへ移動 <i class="fas fa-external-link-alt"></i></a>
                 </div>
                 <br>
+                <div class="up-arrow">
+                    <i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i>
+                </div>
                 <img src="{{ asset('image/text_sorry_app.jpg') }}"></img>
+                <br>
                 <br>
                 <br>
                 <div class="button-p">
@@ -98,7 +102,11 @@
                     <a href="./install" target="_blank" class="btn-square"><i class="fab fa-apple"></i> 公式ページへ移動 <i class="fas fa-external-link-alt"></i></a>
                 </div>
                 <br>
+                <div class="up-arrow">
+                    <i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i>
+                </div>
                 <img src="{{ asset('image/text_sorry.jpg') }}"></img>
+                <br>
                 <br>
                 <br>
                 <div class="button-p">
