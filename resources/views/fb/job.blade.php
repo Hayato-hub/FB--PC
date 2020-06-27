@@ -86,7 +86,6 @@
                 <img src="{{ asset('image/text_sorry_app.jpg') }}"></img>
                 <br>
                 <br>
-                <br>
                 <div class="button-p">
                     <p>百聞は一見に如かず。無料インストールして使ってみるのが一番早い。<br><span class="body-p-span">AppStore上ではマッチングアプリとして登録されてます！が、実際は...。</p>
                 </div>
@@ -106,7 +105,6 @@
                     <i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i>
                 </div>
                 <img src="{{ asset('image/text_sorry.jpg') }}"></img>
-                <br>
                 <br>
                 <br>
                 <div class="button-p">
