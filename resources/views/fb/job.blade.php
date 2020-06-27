@@ -81,7 +81,7 @@
                 </div>
                 <br>
                 <div class="up-arrow">
-                    <i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i>
+                    <i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i>
                 </div>
                 <img src="{{ asset('image/text_sorry_app.jpg') }}"></img>
                 <br>
@@ -103,7 +103,7 @@
                 </div>
                 <br>
                 <div class="up-arrow">
-                    <i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i>
+                    <i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i><i class="fas fa-arrow-circle-up"></i>
                 </div>
                 <img src="{{ asset('image/text_sorry.jpg') }}"></img>
                 <br>
