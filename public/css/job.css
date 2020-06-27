@@ -113,15 +113,14 @@ img {
 
 .btn-square {
   width: 90%;
-  padding: 2em 0;
-  font-size: 1.5em;
+  padding: 0.5em 0;
   display: inline-block;
   text-decoration: none;
   background: #EE0000;/*ボタン色*/
   color: #FFF;
   font-weight: bold;
   border-bottom: solid 4px #BBBBBB;
-  border-radius: 10px;
+  border-radius: 3px;
 }
 
 .up-arrow {
