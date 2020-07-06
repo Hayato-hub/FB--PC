@@ -43,7 +43,7 @@
             <div class="button">
                 <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> パパ活アプリの詳細を見る <i class="fas fa-external-link-alt"></i></a>
             </div>
-            <p>※7/7(火)までの新規募集予定となっております。</p>
+            <p>※本日24時までの新規募集予定となっております。</p>
         </div>
         
         <!--Popo-->
