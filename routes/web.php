@@ -10,25 +10,13 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+// LP獲得用
 Route::get('job', function () {
-    return view('fb.check'); //仮LP
-    // return view('fb.rank'); //新：獲得用LP
-    // return view('fb.job'); //旧：獲得用LP
-});
-
-//イククル-DL
-Route::get('dl', function () {
-    return view('fb.dl'); //自動遷移LP。ココに案件タグを設置
-});
-
-//popo
-Route::get('install', function () {
-    return view('fb.install'); //自動遷移LP。ココに案件タグを設置
+    return view('fb.check'); //確認用LP
+    // return view('fb.job'); //獲得LP
 });
 
 // LP確認用
 Route::get('cccheck', function () {
-    // return view('fb.job'); //旧：獲得LP
-    return view('fb.rank'); //新：獲得LP
+    return view('fb.job'); //獲得LP
 });
