@@ -12,7 +12,7 @@
         <header>
             <h1>M I N E.</h1>
             <img src="{{ asset('image/sukiJob_1.JPG') }}"></img>
-            <h2>Instagram限定！<br>【 ViVi non-no掲載 】<br>在宅スキマバイト公開！</h2>
+            <h2>Instagram限定！<br>有名女性雑誌掲載 <i class="far fa-hand-point-up"></i><br>在宅スキマバイト公開！</h2>
         </header>
         
         <div class="body-top">
@@ -54,7 +54,7 @@
         <div class="ad">
             <h1 id="7"><span>【PR】3日で10万円稼ぐ！<br>老舗パパ活アプリで安全に太パパを探す！</span></h1>
             <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank"><img src="{{ asset('image/sukiJob_ad.jpg') }}"></img></a>
-            <h2><span><i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i></span></h2>
+            <h2><span>タップ！<i class="far fa-hand-point-up"></i></span></h2>
             <h2><span>専用マッチングアプリから無料で太パパを探す！</span></h2>
         </div>
         
