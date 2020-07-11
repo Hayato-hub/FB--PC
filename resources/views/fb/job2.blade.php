@@ -15,6 +15,8 @@
         
         <div class="big-body">
             <div class="body-top">
+                <img src="{{ asset('image/jobManga_1.png') }}"></img>
+                <img src="{{ asset('image/jobManga_2.png') }}"></img>
                 <h1><span>Instagram限定！<br>【賢い学生は使ってる】スキマ時間を有効活用！<br>自宅で出来るスキマバイト！</span></h1>
                 <img src="{{ asset('image/sukiJob_1.JPG') }}"></img>
                 <p>有名女性雑誌掲載！自宅スキマバイト公開！</p>
@@ -28,6 +30,8 @@
                 
                 <div class="body-main-2">
                     <img src="{{ asset('image/sukiJob_3.jpg') }}"></img>
+                    <!--ボタン-->
+                    <a href="https://a-trade.jp/redirect/popo?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式ページはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                 </div>
                 
                 <div class="body-main-3">
@@ -47,8 +51,12 @@
                     <br>
                     <h3>公式ページで詳細をCHECK！</h3>
                     <p>まだイマイチどんな仕事かピンときていない方が多いかと思います！<br>少しでも気になる方は公式ページ・そして専用SNSをチェックしてみて下さい！</p>
-                    <a href="https://a-trade.jp/redirect/popo?media=G16531" target="_blank"><span>https://apps.apple.com/jp/app/<br>official/job/popo</a></span></a>
+                    <!--ボタン-->
+                    <a href="https://a-trade.jp/redirect/popo?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式ページはコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                    <!--<a href="https://a-trade.jp/redirect/popo?media=G16531" target="_blank"><span>https://apps.apple.com/jp/app/<br>official/job/popo</a></span></a>-->
                     <br>
+                    <br>
+                    <img src="{{ asset('image/jobManga_3.jpg') }}"></img>
                     <br>
                     <p>ちょこっと宣伝！<br>Twitterで高時給 & レアバイトとか(不定期 & 即削除)呟いてます！<br>Twitter：@work_info_</p>
                     <br>

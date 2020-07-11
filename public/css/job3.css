@@ -1,0 +1,118 @@
+/*全体*/
+body {
+    background-color: white;
+    font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+}
+
+img {
+    width: 95%;
+}
+
+/*header*/
+header {
+    text-align: center;
+    margin-top: -1em;
+}
+
+header h1 {
+    font-family: serif;
+}
+
+header h2 {
+  position: relative;
+  background: orange;
+  box-shadow: 0px 0px 0px 5px orange;
+  border: dashed 2px white;
+  padding: 0.2em 0.5em;
+  margin: 0.5em 0.5em;
+  color: white;
+}
+
+header h2:after {
+  position: absolute;
+  content: '';
+  left: -7px;
+  top: -7px;
+  border-width: 0 0 15px 15px;
+  border-style: solid;
+  border-color: #fff #fff #a8d4ff;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+
+header img {
+    margin-top: -1em;
+}
+
+/*body-top*/
+.body-top {
+    padding: 0 1em;
+}
+
+.body-top h1 {
+    font-size: 1.2em;
+}
+
+.body-top .box5 {
+    padding: 0.5em 1em;
+    border: double 4px grey;
+}
+
+.body-top .box5 li {
+    margin: 0; 
+    padding: 0;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+/*body-main*/
+.body-main {
+    padding: 0 1em;
+}
+
+.body-main h1 {
+    font-size: 1.2em;
+    margin-top: 1.5em;
+    border-bottom: solid 0.07em grey;
+}
+
+.body-main p {
+    font-size: 0.7em;
+}
+
+.body-main span {
+    color: blue;
+    font-size: 1.2em;
+}
+
+/*ad*/
+.ad {
+    text-align: center;
+    background-color: grey;
+    padding-bottom: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.ad img {
+    width: 80%;
+}
+
+.ad h1 {
+    padding-top: 1.5em;
+    font-size: 1.2em;
+    color: white;
+}
+
+.ad h2 {
+    font-size: 1.2em;
+    color: white;
+}
+
+.ad span {
+    padding: 0.5em;
+    background-color: black;
+}
+
+/*footer*/
+footer img {
+    width: 100%;
+}
