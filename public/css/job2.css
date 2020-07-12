@@ -48,14 +48,13 @@ header p {
 /*body-top*/
 .body-top {
     text-align: center;
-    padding: 0 1em;
+    padding: 0.5em 0.1em 0.1em 0.1em;
 }
 
 .body-top h1 {
     color: white;
     font-weight: bold;
     font-size: 1em;
-    padding-top: 1em;
 }
 
 .body-top span {
