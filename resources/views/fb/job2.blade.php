@@ -67,13 +67,13 @@
                 </div>
             </div>
             
-            <div class="ad">
-                <h1><span>【PR】3日で10万円稼ぐ！<br>老舗パパ活アプリで安全に太パパを探す！</span></h1>
-                <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank"><img src="{{ asset('image/sukiJob_ad.jpg') }}"></img></a>
-                <p><span>タップ！<i class="far fa-hand-point-up"></i></span></p>
-                <p><span>専用マッチングアプリから無料で太パパを探す！</span></p>
-            </div>
-            <br>
+            <!--<div class="ad">-->
+            <!--    <h1><span>【PR】3日で10万円稼ぐ！<br>老舗パパ活アプリで安全に太パパを探す！</span></h1>-->
+            <!--    <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669" target="_blank"><img src="{{ asset('image/sukiJob_ad.jpg') }}"></img></a>-->
+            <!--    <p><span>タップ！<i class="far fa-hand-point-up"></i></span></p>-->
+            <!--    <p><span>専用マッチングアプリから無料で太パパを探す！</span></p>-->
+            <!--</div>-->
+            <!--<br>-->
         </div>
         <footer>
             <p>激ヤバ話題まとめ@5ch</p>
