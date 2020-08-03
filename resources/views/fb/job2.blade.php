@@ -18,7 +18,8 @@
                 <!--<img src="{{ asset('image/jobManga_1.png') }}" class="wide"></img>-->
                 <!--<img src="{{ asset('image/jobManga_2.png') }}" class="wide"></img>-->
                 <h1><span>Instagram限定！<br>【賢い学生は使ってる】<br>スキマ時間を有効活用！</span></h1>
-                <img src="https://trading-ad.net/a-trade/banner/biscor_600x500_jikyu_main.png" class="wide">
+                <!--<img src="https://trading-ad.net/a-trade/banner/biscor_600x500_jikyu_main.png" class="wide">-->
+                <a href="https://a-trade.jp/redirect/moa?media=G16531"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide"></a>
                 <h1><span>TV・SNS観ながらでOK！<br>自宅で出来るスキマバイト！</span></h1>
                 <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式ページはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                 <p>有名女性雑誌掲載！自宅スキマバイト公開！</p>
@@ -57,6 +58,7 @@
                     <!--<br>-->
                     <h3>公式ページで詳細をCHECK！</h3>
                     <p>まだイマイチどんな仕事かピンときていない方が多いかと思います！<br>少しでも気になる方は公式ページ・そして専用SNSをチェックしてみて下さい！</p>
+                    <a href="https://a-trade.jp/redirect/moa?media=G16531"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" alt=""></a>
                     <!--ボタン-->
                     <a href="https://a-trade.jp/redirect/moa?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式ページはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                     <!--<a href="https://a-trade.jp/redirect/popo?media=G16531" target="_blank"><span>https://apps.apple.com/jp/app/<br>official/job/popo</a></span></a>-->
